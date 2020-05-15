@@ -24,5 +24,5 @@ int main(int argc, char** argv)
 	cout << "Encrypt[k1,k2,k3](0123456789ABCDEF) = {" << ciphertext << "}" << endl;
 	
 	/*Decryption*/
-	cout << "Encrypt[k1,k2,k3](" << ciphertext << ") = {" << TripleDesDecryption(ciphertext,k1,k2,k3) << "}" << endl;
+	cout << "Decrypt[k1,k2,k3](" << ciphertext << ") = {" << TripleDesDecryption(ciphertext,k1,k2,k3) << "}" << endl;
 }
