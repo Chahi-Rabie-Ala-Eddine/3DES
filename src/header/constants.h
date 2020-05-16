@@ -5,9 +5,6 @@
 #define sBoxes 8
 #define outputSboxes 4
 
-#define myPlaintext "89CDE529B03B2A29"
-#define myCorrectCipher "CE3B17D676D5F63B"
-
 #define thirtyTwoBits 32
 #define fourtyHeightBits 48
 #define fiftySixBits 56
