@@ -17,8 +17,6 @@ using namespace std;
 
 // All binaries
 extern vector<string> binaries;
-// Incorrect Ciphers
-extern string incorrectCiphers[32];
 // Initial Permutation
 extern int initialPermutation[64];
 // Expansion Table
