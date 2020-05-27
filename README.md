@@ -1,6 +1,10 @@
 # Triple Data Encryption Standard 3️⃣
 
 **Version 1.0.0**
+
+## Langage 
+
+[![GitHub top language](https://img.shields.io/github/languages/top/ChahiAladeen/3DES)](https://github.com/ChahiAladeen/3DES)
  
 ## About
 
